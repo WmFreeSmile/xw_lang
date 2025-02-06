@@ -1,0 +1,14 @@
+[package]
+name = "xw_lang"
+version = "0.1.0"
+edition = "2021"
+# 项目描述
+description = "晓无语言"
+# 作者信息
+authors = ["WmFreeSmile <wmfreesmile@out.com>"]
+# 项目主页
+homepage = "https://github.com/WmFreeSmile/xw_lang"
+# 项目仓库地址
+repository = "https://github.com/WmFreeSmile/xw_lang"
+
+[dependencies]
